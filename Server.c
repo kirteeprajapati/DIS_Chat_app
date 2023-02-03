@@ -62,29 +62,6 @@ int main(int argc, char *argv[]){
                 break;
         }
 
-        // int num1, num2, num3, answer;
-        // n = write(newsockfd, "Enter Number 1: ", strlen("Enter Number 1")); // Ask for Number 1
-        // if(n<0)
-        // error("Error Writing to socket");                         
-        // read(newsockfd, &num1, sizeof(int));                      
-        // printf("Client Number 1 is: %d\n", num1);                 // Read num 1
-
-        // n = write(newsockfd, "Enter Number 2: ", strlen("Enter Number 2")); // Ask for Number 1
-        // if (n < 0)
-        // error("Error Writing to socket");
-        // read(newsockfd, &num2, sizeof(int));
-        // printf("Client Number 2 is: %d\n", num2); // Read num 1
-
-        // n = write(newsockfd, "Enter Number 3: ", strlen("Enter Number 3")); // Ask for Number 1
-        // if (n < 0)
-        // error("Error Writing to socket");
-        // read(newsockfd, &num3, sizeof(int));
-        // printf("Client Number 3 is: %d\n", num3); // Read num 1
-
-        // answer = (num1 + num2 + num3) / 3;
-
-        // write(newsockfd, &answer, sizeof(int));
-
         close(newsockfd);
         close(sockfd);
         return 0;
