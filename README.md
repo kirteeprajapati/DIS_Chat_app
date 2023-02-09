@@ -1,6 +1,10 @@
 ### DIS Assignment 2
 Chat application written in C language, on 1 server and at least 2 client
 
+Done by:
+Kirtee: IEC2020102
+S.Deepika: IIT2020164
+
 **Step 1.** Start with Server.C and client.C file and generate there outputs with the command in 2 different terminal for clearity.
 
 ### Get Output files
