@@ -32,7 +32,7 @@ ifconfig
 ./Client 127.0.0.1 9898
 ```
 
-Your Chat application in ready
+Your Chat application in ready.
 
 ## Screenshots
 
