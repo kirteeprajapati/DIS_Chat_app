@@ -7,7 +7,7 @@ S.Deepika: IIT2020164
 
 **Step 1.** Start with Server.C and client.C file and generate there outputs with the command in 2 different terminal for clearity.
 
-### Get Output files
+### Get Output files  
 
 ```bash
   gcc Client.c -o Client
